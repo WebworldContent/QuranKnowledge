@@ -1,3 +1,7 @@
+[![Deploy to Vercel](https://vercel.com/button)](https://quran-knowledge-28tx7ugd1-aamirs-projects-da4595a4.vercel.app/)
+
+**Live Demo:** [https://quran-knowledge-28tx7ugd1-aamirs-projects-da4595a4.vercel.app/](https://quran-knowledge-28tx7ugd1-aamirs-projects-da4595a4.vercel.app/)
+
 # Quran Study Website
 
 A comprehensive, modern Quran study website built with React that provides access to all 114 surahs with multiple language support including English, Hinglish, Arabic, and Tafsir interpretations.

@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A comprehensive Quran study website with multiple language support",
   "main": "index.js",
-  "homepage": "https://WebworldContent.github.io/QuranKnowledge",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

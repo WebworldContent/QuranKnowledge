@@ -142,7 +142,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 If you have any questions or need support, please open an issue in the repository.
-
----
-
-**Note**: This is a demonstration project. For production use, ensure you have proper licensing for Quran translations and consider integrating with official Quran APIs for complete content. 

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuranKnowledge/static/css/main.2041bae4.css",
+    "main.js": "/QuranKnowledge/static/js/main.c020943b.js",
+    "index.html": "/QuranKnowledge/index.html",
+    "main.2041bae4.css.map": "/QuranKnowledge/static/css/main.2041bae4.css.map",
+    "main.c020943b.js.map": "/QuranKnowledge/static/js/main.c020943b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2041bae4.css",
+    "static/js/main.c020943b.js"
+  ]
+}
